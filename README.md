@@ -3,16 +3,27 @@ IntelPlant AI is an AI-powered industrial document analysis application that all
 
 Features
   Upload Industrial PDF Documents
+  
   AI Generated Summary
+  
   Ask AI Questions about the Document
+  
   Chat History
+  
   Dashboard
+  
   Uploaded File
+  
   Page Count
+  
   Character Count
+  
   AI Status
+  
   Copy Summary
+  
   Download Summary
+  
   Clear Chat
 
 
@@ -21,14 +32,23 @@ Features
 
 Frontend
   React.js
+
   Vite
+  
   Tailwind CSS
+  
   Axios
+  
   Backend
+  
   FastAPI
+  
   Python
+  
   Google Gemini API
+  
   PyPDF
+  
   Installation
   
 Frontend
@@ -38,12 +58,19 @@ Frontend
   
 Backend
   pip install -r requirements.txt
+  
   uvicorn main:app --reload
+  
   Future Improvements
+  
   OCR for scanned PDFs
+  
   Multi-document support
+  
   Voice-based AI assistant
+  
   User authentication
+  
   Export chat history
 
   
