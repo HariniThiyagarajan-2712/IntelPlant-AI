@@ -14,7 +14,11 @@ Features
   Copy Summary
   Download Summary
   Clear Chat
+
+
+  
 🛠 Tech Stack
+
 Frontend
   React.js
   Vite
@@ -26,9 +30,12 @@ Frontend
   Google Gemini API
   PyPDF
   Installation
+  
 Frontend
   npm install
   npm run dev
+
+  
 Backend
   pip install -r requirements.txt
   uvicorn main:app --reload
@@ -38,5 +45,7 @@ Backend
   Voice-based AI assistant
   User authentication
   Export chat history
+
+  
 Author
   Harini
